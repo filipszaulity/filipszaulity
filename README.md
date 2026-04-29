@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a 13 year old programmer and i own filip team<br>and make games on roblox<br>can script in lua, python
+I'm a 13-year-old programmer and founder of Filip Team.<br>I build games on Roblox and write code in Lua and Python.
 
 
 ## 🌐 Socials:
